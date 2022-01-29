@@ -39,6 +39,19 @@ function createNoteElement(id, content) {
   return element;
 }
 
+function addNotes() {
+  const notes = getNotes();
+  const noteObject = {
+    id: Math.floor(Math.random() * 100000),
+    content:""
+  };
+
+  const noteElement = createNoteElement(noteObject.id, noteObject.content);
+
+  notesContainer.insertBefore(noteElement, addNoteButton);
+  saveNotes(notes);
+}
+
 
 
 
