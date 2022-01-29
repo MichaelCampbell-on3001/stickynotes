@@ -52,6 +52,15 @@ function addNotes() {
   saveNotes(notes);
 }
 
+function updateNote(id, newContent) {
+  const notes = getNotes();
+  const targetNote = notes.filter((note) => note.id == id) [0];
+
+  targetNote.content = newContent;
+  saveNotes(notes);
+}
+
+
 
 
 
