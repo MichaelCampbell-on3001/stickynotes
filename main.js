@@ -16,3 +16,15 @@ function saveNotes(notes) {
   localStorage.setItem("stickynotes-notes", JSON.stringify(notes));
 }
 
+function createNoteElement(id, content) {
+  const element = document.createElement("textarea");
+
+  element.classList.add("note");
+  element.value = content;
+  element.placeholder = "empty Sticky Note";
+
+  element.addEventListener("change", () => { updateNote(id,element.value);
+  });
+
+  
+}
