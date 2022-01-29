@@ -6,3 +6,8 @@ getNotes().forEach((note) => {
   notesContainer.insertBefore(noteElement, addNoteButton);
 });
 
+addNoteButton.addEventListener("click", () => addNoteButton());
+
+function getNotes() {
+  return JSON.parse(localStorage.getItem("sticky-notes") || "[]");
+}
