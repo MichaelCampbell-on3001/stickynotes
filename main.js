@@ -23,8 +23,23 @@ function createNoteElement(id, content) {
   element.value = content;
   element.placeholder = "empty Sticky Note";
 
-  element.addEventListener("change", () => { updateNote(id,element.value);
+  element.addEventListener("change", () => {updateNote(id,element.value);
   });
 
-  
+  element.addEventListener("dblclick", () => {
+    const doDelete = confirm(
+      "Are you sure you really want to delete this sticky note?"
+    );
+
+    if (doDelete) {
+      deleteNote(id, element);
+    }
+  });
+
+  return element;
+}
+
+
+
+
 }
