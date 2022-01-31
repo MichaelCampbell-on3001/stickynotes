@@ -64,7 +64,7 @@ Below is the function enabling the delete feature.
 
 ## Stretch goal
 
-One goal I had in mind when I thougt of this idea was to give the user the ability to reorganize the sticky notes into any order they wanted.
+One stretch goal I had in mind when I thougt of this idea was to give the user the ability to reorganize the sticky notes into any order they wanted.
 
 
 
