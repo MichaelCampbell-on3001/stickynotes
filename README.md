@@ -15,7 +15,7 @@
 
 
 
-For my project, I was tasked with creating an application that utilizes local storage, has persisting data from the user and event listeners. The data can be input from the user onto a "sticky note" and the data persists through a browser refresh. Below I will break down my process. 
+For my project, I was tasked with creating an application that utilizes local storage, has persisting data from the user and event listeners. The data can be input from the user onto a "sticky note" and the data persists through a browser refresh. A new HTML element is created using Javascript. Below I will break down my process. 
 
 # The Process
 
