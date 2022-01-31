@@ -44,12 +44,17 @@ In additional to having the user's saved notes persist through a browser refresh
 
 To approach this project, I first laid out each function I knew I wanted. 
 
+First, I wanted to check to see if a user already has any notes saved, so we check the browser storage first. 
 ![Retrieves user data from local storage](get-notes-functionality.png)
 
-
+If the user wants to add a new sticky note, this function aloows the user to create a new note instance.
 ![adding new info and pushing it to local storage](add-note.png)
+
+When the user wants to update an excisting note, this function makes it possible. 
+![User has the ability to update a sticky note](update-note.png)
+
 ![alt text](image.jpg)
-![alt text](image.jpg)
+
 ![alt text](image.jpg)
 
 
