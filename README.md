@@ -7,7 +7,7 @@
 [GitHub Repo](https://github.com/MichaelCampbell-on3001/stickynotes)
 
 
-[project URL](https://michaelcampbell-on3001.github.io/stickynotes/)
+[Project URL](https://michaelcampbell-on3001.github.io/stickynotes/)
 
 
 ![Sticky-Notes-App](Sticky-Notes-App.png)
@@ -15,7 +15,7 @@
 
 
 
-For my project, I was tasked with utilizes local storage, have persisting data from the user and event listeners. The data can be input from user onto a "sticky note" and the data persists through a browser refresh. Below I will break down my process. 
+For my project, I was tasked with creating an application that utilizes local storage, has persisting data from the user and event listeners. The data can be input from user onto a "sticky note" and the data persists through a browser refresh. Below I will break down my process. 
 
 # The Process
 
