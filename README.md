@@ -10,4 +10,4 @@ This project demonstrates CRUD and utilizes local storage and event listeners. T
 
 [project URL](https://michaelcampbell-on3001.github.io/stickynotes/)
 
-![Sticky-Notes-App](image.jpg)
+![Sticky-Notes-App](Sticky-Notes-App.png)
