@@ -53,9 +53,10 @@ If the user wants to add a new sticky note, this function aloows the user to cre
 When the user wants to update an excisting note, this function makes it possible. 
 ![User has the ability to update a sticky note](update-note.png)
 
+Below is the function enabling the delete feature.
 ![delete dunctionality](delete-function.png)
 
-![alt text](image.jpg)
+
 
 
 
