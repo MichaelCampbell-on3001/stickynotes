@@ -47,6 +47,8 @@ To approach this project, I first laid out each function I knew I wanted.
 ![Retrieves user data from local storage](get-notes-functionality.png)
 
 
+![adding new info and pushing it to local storage](add-note.png)
+![alt text](image.jpg)
 ![alt text](image.jpg)
 ![alt text](image.jpg)
 
