@@ -25,7 +25,8 @@ For my project, I was tasked with utilizes local storage, have persisting data f
 
 ## HTML Layout
 
-![alt text](image.jpg)
+![HTML-Layout](HTMLLayout.png
+)
 
 ## CSS Layout
 
