@@ -15,4 +15,20 @@
 
 
 
-This project demonstrates CRUD and utilizes local storage and event listeners. The data input from user persists through a browser refresh.
+For my project, I was tasked with utilizes local storage, have persisting data from the user and event listeners. The data can be input from user onto a "sticky note" and the data persists through a browser refresh. Below I will break down my process. 
+
+# The Process
+
+- HTML Layout
+- CSS Layout
+- Javascript Functionality
+
+## HTML Layout
+
+![alt text](image.jpg)
+
+## CSS Layout
+
+## Javascript Finctionality
+
+
