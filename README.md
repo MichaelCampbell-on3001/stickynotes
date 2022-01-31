@@ -25,16 +25,22 @@ For my project, I was tasked with utilizes local storage, have persisting data f
 
 ## HTML Layout
 
-In the below screenshot you can see I started with boilerplate HTML and added a deiv to house the entire app. 
+In the below screenshot you can see I started with boilerplate HTML, added links to my CSS and Javascript folders and added a div to house the entire app. 
+
+
 
 ![HTML-Layout](HTMLLayout.png
 )
 
 ## CSS Layout
 
+I decided early on that a grid layout would work best for this application. As the sticky notes are added they snap into the grid an align with existing and new notes.
+
 ![Grid Layout](APP-CSS-Layout.png)
 
-## Javascript Finctionality
+## Javascript Functionality
+
+In additional to having the user's saved notes persist through a browser refresh, I also wanted to provide the user with the options to create, edit and delete a note. Below I will breakdown how I did this. 
 
 ![alt text](image.jpg)
 
