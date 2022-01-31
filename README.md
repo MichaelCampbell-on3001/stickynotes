@@ -30,6 +30,15 @@ For my project, I was tasked with utilizes local storage, have persisting data f
 
 ## CSS Layout
 
+![alt text](image.jpg)
+
 ## Javascript Finctionality
+
+![alt text](image.jpg)
+
+
+![alt text](image.jpg)
+![alt text](image.jpg)
+
 
 
