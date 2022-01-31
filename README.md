@@ -25,12 +25,14 @@ For my project, I was tasked with utilizes local storage, have persisting data f
 
 ## HTML Layout
 
+In the below screenshot you can see I started with boilerplate HTML and added a deiv to house the entire app. 
+
 ![HTML-Layout](HTMLLayout.png
 )
 
 ## CSS Layout
 
-![alt text](image.jpg)
+![Grid Layout](APP-CSS-Layout.png)
 
 ## Javascript Finctionality
 
