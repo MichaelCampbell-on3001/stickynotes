@@ -42,6 +42,7 @@ I decided early on that a grid layout would work best for this application. As t
 
 In additional to having the user's saved notes persist through a browser refresh, I also wanted to provide the user with the options to create, edit and delete a note. Below I will breakdown how I did this. 
 
+To approach this project, I first laid out each function I knew I wanted. 
 ![alt text](image.jpg)
 
 
