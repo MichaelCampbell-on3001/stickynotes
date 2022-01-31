@@ -56,7 +56,7 @@ If the user wants to add a new sticky note, this function allows the user to cre
 ![adding new info and pushing it to local storage](add-note.png)
 
 When the user wants to update an existing note, this function makes it possible. 
-![User has the ability to update a sticky note](update-note.png)
+![User has the ability to update a sticky note](udpdatednote.png)
 
 Below is the function enabling the delete feature.
 ![delete dunctionality](delete-function.png)
